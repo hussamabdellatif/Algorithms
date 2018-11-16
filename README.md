@@ -77,11 +77,11 @@ The tilt of the whole tree is defined as the sum of all nodes' tilt.
 Given a binary tree, you need to compute the length of the diameter of the tree. The diameter of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root.
 
 Example:
-Given a binary tree <b>
-    1 <b>
-   / \ <b>
-  2   3 <b>
- / \ <b>     
-4   5 <b>    
+Given a binary tree <br>
+    1 <br>
+   / \ <br>
+  2   3 <br>
+ / \ <br>     
+4   5 <br>    
 Return 3, which is the length of the path [4,2,1,3] or [5,2,1,3].
 
