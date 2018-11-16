@@ -76,5 +76,14 @@ The tilt of the whole tree is defined as the sum of all nodes' tilt.
 
 Given a binary tree, you need to compute the length of the diameter of the tree. The diameter of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root.
 
+<br>***************************************************************************<br>
+
+<b><br> Symmetric_Tree_recursive.cpp</br></b>
+<br>
+
+Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).
+
+For example, this binary tree [1,2,2,3,4,4,3] is symmetric:
+
 
 
