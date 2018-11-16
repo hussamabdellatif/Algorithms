@@ -78,10 +78,10 @@ Given a binary tree, you need to compute the length of the diameter of the tree.
 
 Example:
 Given a binary tree <br>
-    1 <br>
-   / \ <br>
-  2   3 <br>
- / \ <br>     
-4   5 <br>    
+      1 <br>
+    /   \ <br>
+   2     3 <br>
+  /   \ <br>     
+ 4    5   
 Return 3, which is the length of the path [4,2,1,3] or [5,2,1,3].
 
