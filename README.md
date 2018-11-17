@@ -112,3 +112,19 @@ The minimum depth is the number of nodes along the shortest path from the root n
 
 Note: A leaf is a node with no children.
 
+<br>***************************************************************************<br>
+
+<b><br>intersection_of_Two_Arrays.cpp</br></b>
+<br>
+Given two arrays, write a function to compute their intersection.
+
+Example 1:
+
+Input: nums1 = [1,2,2,1], nums2 = [2,2]
+Output: [2,2]
+
+Each element in the result should appear as many times as it shows in both arrays.
+The result can be in any order.
+
+
+
