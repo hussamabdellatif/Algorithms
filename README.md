@@ -191,3 +191,11 @@ minStack.getMin();   --> Returns -3.
 minStack.pop();
 minStack.top();      --> Returns 0.
 minStack.getMin();   --> Returns -2.
+
+<br>***************************************************************************<br>
+
+<b><br>pow(x,n)_in_log(n)_time_complexity.cpp </br></b>
+<br>
+Implementation of the function pow(x,n) with O(log(n)) time complexity 
+
+
