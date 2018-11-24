@@ -224,3 +224,13 @@ Note:
 Definition of a complete binary tree from Wikipedia:
 In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h.
 
+<br>***************************************************************************<br>
+
+<b><br>Monotonic_Array.cpp </br></b>
+<br>
+An array is monotonic if it is either monotone increasing or monotone decreasing.
+
+An array A is monotone increasing if for all i <= j, A[i] <= A[j].  An array A is monotone decreasing if for all i <= j, A[i] >= A[j].
+
+Return true if and only if the given array A is monotonic.
+
