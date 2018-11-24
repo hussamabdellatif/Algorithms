@@ -274,3 +274,15 @@ A solution set is:
   [-1, 0, 1],
   [-1, -1, 2]
 ]
+
+<br>***************************************************************************<br>
+<b><br>Two Sum IV - Input is a BST.cpp</br></b>
+<br>
+Given a Binary Search Tree and a target number, return true if there exist two elements in the BST such that their sum is equal to the given target.
+
+
+
+<br>***************************************************************************<br>
+<b><br></br></b>
+<br>
+
