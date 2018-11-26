@@ -297,3 +297,9 @@ Given a binary tree, determine if it is height-balanced.
 For this problem, a height-balanced binary tree is defined as:
 
 a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
+
+
+<br>***************************************************************************<br>
+<b><br>Sum of Square Numbers.cpp</br></b>
+<br>
+Given a non-negative integer c, your task is to decide whether there're two integers a and b such that a2 + b2 = c.
