@@ -312,4 +312,19 @@ Given a binary tree, find the length of the longest path where each node in the 
 
 Note: The length of path between two nodes is represented by the number of edges between them.
 
+<br>***************************************************************************<br>
+<b><br>restore_ip_addresses.cpp</br></b>
+<br>
+Given a string containing only digits, restore it by returning all possible valid IP address combinations.
+
+Example:
+
+Input: "25525511135"
+Output: ["255.255.11.135", "255.255.111.35"]
+
+
+
+<br>***************************************************************************<br>
+<b><br></br></b>
+<br>
 
