@@ -363,3 +363,34 @@ Output: 2
 Explanation: If we flip the second card, the fronts are [1,3,4,4,7] and the backs are [1,2,4,1,3].
 We choose the second card, which has number 2 on the back, and it isn't on the front of any card, so 2 is good.
 
+
+<br>***************************************************************************<br>
+<b><br>Divide Two Integers.cpp</br></b>
+<br>
+
+Given two integers dividend and divisor, divide two integers without using multiplication, division and mod operator.
+
+Return the quotient after dividing dividend by divisor.
+
+The integer division should truncate toward zero.
+
+Example 1:
+
+Input: dividend = 10, divisor = 3
+Output: 3
+Example 2:
+
+Input: dividend = 7, divisor = -3
+Output: -2
+Note:
+
+Both dividend and divisor will be 32-bit signed integers.
+The divisor will never be 0.
+Assume we are dealing with an environment which could only store integers 
+within the 32-bit signed integer range: [−231,  231 − 1]. 
+For the purpose of this problem, assume that your function returns 231 − 1 
+when the division result overflows.
+
+<br>***************************************************************************<br>
+<b><br></br></b>
+<br>
